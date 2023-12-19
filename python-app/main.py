@@ -1,1 +1,1 @@
-print("Suck my cock");
+oprint("Hello, world!");
